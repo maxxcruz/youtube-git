@@ -1,0 +1,22 @@
+* 0d37c18 Agregando 2 parrafos
+* 3030024 Resolviendo conflicto en estaciones del año y fechas de inicio
+* f003a4c Agregando las estaciones del año
+| * 8c1152e Agregando estaciones del año con fecha de incio
+|/  
+*   d49adeb Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 4ff7dd3 Agregando index.js al index.html
+* | 74e10e5 Agregando style.css al index.html
+* |   6779b81 Merge branch 'js'
+|\ \  
+| * | e3c9446 Creando index.js
+* | | 8e68b30 Creando style.css
+| |/  
+|/|   
+* | ba3f70c Creando index.html
+|/  
+* 8120fdf Ignorando archivos por defecto de macOS
+* 085ea63 Creando licencia del repositorio
+* fb2fc77 Agregando mas contenido al README
+* 0e6a8ab Agregando contenido inicial al README
+* 542178d Primer commit
