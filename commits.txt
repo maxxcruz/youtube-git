@@ -1,0 +1,91 @@
+commit 0d37c18fdc1ccc6be392a7736a4ed33a177fa5b8
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Tue May 9 21:24:55 2023 -0600
+
+    Agregando 2 parrafos
+
+commit 30300240215483099d4d84fa38c15c3bcbf2d96d
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Tue May 9 20:44:03 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit f003a4c879b1f0c394440ba404d423715e74baec
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Fri May 5 10:31:36 2023 -0600
+
+    Agregando las estaciones del año
+
+commit d49adebb96d311cb92795c3ea3ec674aaeeb02fc
+Merge: 74e10e5 4ff7dd3
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Thu May 4 15:14:38 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 4ff7dd31470755213503bb42254fb3014803d947
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Thu May 4 15:08:08 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 74e10e59bbbb66f23c57cb06ff8a414dfdb40c79
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Thu May 4 15:04:19 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 6779b81440d4f2dcc24d9f11321f0498588770d8
+Merge: 8e68b30 e3c9446
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Thu May 4 14:53:15 2023 -0600
+
+    Merge branch 'js'
+
+commit e3c94466b50879f1b83cffccff40c88a7928a63d
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Thu May 4 14:47:00 2023 -0600
+
+    Creando index.js
+
+commit 8e68b306760e4f8099d04593a99966cbc357226a
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Wed May 3 17:58:44 2023 -0600
+
+    Creando style.css
+
+commit ba3f70c47799fbaa7b700f4a4e6e1f9f930dd484
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Wed May 3 17:53:04 2023 -0600
+
+    Creando index.html
+
+commit 8120fdf5372c1b1e8ec5e8162c8b0532e94f7033
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Wed May 3 16:50:28 2023 -0600
+
+    Ignorando archivos por defecto de macOS
+
+commit 085ea632050a455fd704b15ddeb4853f2879ccff
+Author: maxxcruz <63476823+maxxcruz@users.noreply.github.com>
+Date:   Wed May 3 12:20:09 2023 -0600
+
+    Creando licencia del repositorio
+
+commit fb2fc772a9f8cacf39478e86f98214c321a6dea3
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Wed May 3 12:13:51 2023 -0600
+
+    Agregando mas contenido al README
+
+commit 0e6a8abb8e8ee5a084bcce9489c65132f0c8945a
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Tue May 2 23:00:12 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit 542178d47d7192650ef4aa0bbe02f1b0cbdad871
+Author: MartinCruz <anastaciocruzmartin@gmail.com>
+Date:   Tue May 2 22:56:12 2023 -0600
+
+    Primer commit
